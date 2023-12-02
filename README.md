@@ -4,7 +4,7 @@ I'm a passionate and self driven Data Scientist with a focus on data analysis, m
 
 Here, you'll find a collection of my projects and contributions that showcase my skills and expertise in various areas of programming, data science, data analysis, web scraping, computer vision, recommender systems, reinforcement learning. These projects are a showcase of my problem solving approach. 
 
-I am constantly exploring new technologies and staying updated with the latest advancements in the field. Currently I am learning about Cloud computing and deployment of ML models. 
+I am constantly exploring new technologies and staying updated with the latest advancements in the field.  
 
 Thank you for visiting my page.
 
